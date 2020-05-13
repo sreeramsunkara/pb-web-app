@@ -4,7 +4,7 @@ pivotal:
   portfolioService:
     name: portfolio-service
   quotesService:
-    name: quote-service
+    name: quotes-service
   userService:
     name: user-service
   analyticsService:
