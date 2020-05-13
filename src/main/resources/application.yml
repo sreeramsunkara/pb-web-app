@@ -1,0 +1,11 @@
+pivotal:
+  accountsService:
+    name: accounts-service
+  portfolioService:
+    name: portfolio-service
+  quotesService:
+    name: quote-service
+  userService:
+    name: user-service
+  analyticsService:
+    name: analytics-service
