@@ -1,0 +1,6 @@
+source: 
+  git:
+    url: https://github.com/sreeramsunkara/pb-web-app.git
+    revision: master
+image:
+  tag: sreeramsunkara/pb-web-app
